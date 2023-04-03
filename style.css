@@ -103,3 +103,14 @@
 	font-size: 1.4rem;
 	font-weight: 400;
 }
+
+/* 
+//////////////////////////////
+//// MAIN CONTENT SECTION ////
+//////////////////////////////
+*/
+
+.main-content {
+	/* need to change later */
+	width: 81.4rem;
+}
